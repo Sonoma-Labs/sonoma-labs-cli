@@ -1,2 +1,29 @@
-# sonoma-labs-cli
-Command-line interface for Sonoma Labs Toolkit, providing essential tools for agent management and deployment on Solana. Streamline your workflow with intuitive commands for creating, monitoring, and controlling autonomous agents. Built for developers to easily interact with the Sonoma Labs ecosystem.
+
+## Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+## Security
+
+For security concerns, please email security@sonoma-labs.com
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details
+
+## Support
+
+- Documentation: [sonoma-labs.com/docs](https://sonoma-labs.com/docs)
+- Twitter: [@Labs_Sonoma](https://twitter.com/Labs_Sonoma)
+
+## Roadmap
+
+- [ ] Interactive agent creation wizard
+- [ ] Advanced monitoring dashboard
+- [ ] Multi-agent management
+- [ ] Custom plugin support
+- [ ] Network analytics tools
+
+## Acknowledgments
+
+Built with ❤️ by the Sonoma Labs Team
